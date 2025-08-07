@@ -1,2 +1,3 @@
 # imt2200_actividad1
-Edite este archivo agregando información útil para quien lo revise.
+Nombre: Bastián Ignacio Pérez Muñoz
+Cambie el color del mapa a uno mas amigable a la vista
